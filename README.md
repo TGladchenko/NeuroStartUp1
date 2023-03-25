@@ -1,3 +1,4 @@
+```css
 # NeuroStartUp
 ![Логотип NeuroStartUp](https://raw.githubusercontent.com/netology-ds-team/git-homeworks/main/1_self/logo.png)
 
@@ -6,7 +7,7 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
-  
+  ```
 Мы на столько крутые, что уже успели поработать со следующими команиями:
 
 1. ООО «Рога и копыта»
